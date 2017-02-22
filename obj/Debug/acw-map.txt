@@ -1,0 +1,4 @@
+JaiGaneshApp.MainActivity, JaiGaneshApp;md5bc282749866e62ee5e6524d505d44909.MainActivity
+JaiGaneshApp.MainActivity, JaiGaneshApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bc282749866e62ee5e6524d505d44909.MainActivity
+JaiGaneshApp.MainActivity;md5bc282749866e62ee5e6524d505d44909.MainActivity
+jaiganeshapp.MainActivity;md5bc282749866e62ee5e6524d505d44909.MainActivity
